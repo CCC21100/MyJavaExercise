@@ -25,6 +25,7 @@ public class Main {
         }else{
             return new NormalUser(userName);
         }
+        //System.out.println("hello");
     }
     public static void main(String[] args) {
         //0.准备数据
